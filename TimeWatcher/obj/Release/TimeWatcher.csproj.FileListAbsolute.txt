@@ -1,0 +1,9 @@
+C:\Users\lenovo\source\repos\TimeWatcher\TimeWatcher\bin\Release\TimeWatcher.exe.config
+C:\Users\lenovo\source\repos\TimeWatcher\TimeWatcher\bin\Release\TimeWatcher.exe
+C:\Users\lenovo\source\repos\TimeWatcher\TimeWatcher\bin\Release\TimeWatcher.pdb
+C:\Users\lenovo\source\repos\TimeWatcher\TimeWatcher\obj\Release\TimeWatcher.MainForm.resources
+C:\Users\lenovo\source\repos\TimeWatcher\TimeWatcher\obj\Release\TimeWatcher.Properties.Resources.resources
+C:\Users\lenovo\source\repos\TimeWatcher\TimeWatcher\obj\Release\TimeWatcher.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\TimeWatcher\TimeWatcher\obj\Release\TimeWatcher.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\TimeWatcher\TimeWatcher\obj\Release\TimeWatcher.exe
+C:\Users\lenovo\source\repos\TimeWatcher\TimeWatcher\obj\Release\TimeWatcher.pdb
